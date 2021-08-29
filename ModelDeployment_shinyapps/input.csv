@@ -1,0 +1,2 @@
+SeniorCitizen,Dependents,tenure,MultipleLines,InternetService,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+1,Yes,18,No,Fiber optic,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),65,1400,Churn
